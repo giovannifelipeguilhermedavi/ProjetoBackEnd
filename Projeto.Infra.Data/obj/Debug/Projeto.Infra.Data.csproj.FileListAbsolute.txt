@@ -1,0 +1,8 @@
+c:\users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Infra.Data\bin\Debug\Projeto.Infra.Data.dll
+c:\users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Infra.Data\bin\Debug\Projeto.Infra.Data.pdb
+c:\users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Infra.Data\bin\Debug\Projeto.Dominio.dll
+c:\users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Infra.Data\bin\Debug\Projeto.Dominio.pdb
+c:\users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Infra.Data\obj\Debug\Projeto.Infra.Data.csprojResolveAssemblyReference.cache
+c:\users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Infra.Data\obj\Debug\Projeto.Infra.Data.csproj.CoreCompileInputs.cache
+c:\users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Infra.Data\obj\Debug\Projeto.Infra.Data.dll
+c:\users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Infra.Data\obj\Debug\Projeto.Infra.Data.pdb

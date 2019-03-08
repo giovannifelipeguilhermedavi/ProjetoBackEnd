@@ -1,0 +1,5 @@
+C:\Users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Dominio\bin\Debug\Projeto.Dominio.dll
+C:\Users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Dominio\bin\Debug\Projeto.Dominio.pdb
+C:\Users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Dominio\obj\Debug\Projeto.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Dominio\obj\Debug\Projeto.Dominio.dll
+C:\Users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Dominio\obj\Debug\Projeto.Dominio.pdb

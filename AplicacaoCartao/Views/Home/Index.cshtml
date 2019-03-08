@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+<div class="row">
+    @using (@Html.BeginForm("Index", "Home"))
+    {
+        <div>
+            <div class="col-md-4"><input type="number" name="numeroCartao" id="txtNumeroCartao" /></div>
+            <div class="col-md-4">@Html.DropDownList("Bandeira", new SelectList(ViewBag.bandeiras, "Text", "Text"), "Selecione...", new { @class = "form-control" })</div>
+            <div class="col-md-4"><button id="btnVerificar" type="submit">Verificar</button></div>
+        </div>
+    }
+</div>
+<span class="text-info">@ViewBag.Cartao</span>
+

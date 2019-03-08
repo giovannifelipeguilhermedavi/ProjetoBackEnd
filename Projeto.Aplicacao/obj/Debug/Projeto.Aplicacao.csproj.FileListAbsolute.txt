@@ -1,0 +1,8 @@
+C:\Users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Aplicacao\bin\Debug\Projeto.Aplicacao.dll
+C:\Users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Aplicacao\bin\Debug\Projeto.Aplicacao.pdb
+C:\Users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Aplicacao\bin\Debug\Projeto.Dominio.dll
+C:\Users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Aplicacao\bin\Debug\Projeto.Dominio.pdb
+C:\Users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Aplicacao\obj\Debug\Projeto.Aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Aplicacao\obj\Debug\Projeto.Aplicacao.csproj.CoreCompileInputs.cache
+C:\Users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Aplicacao\obj\Debug\Projeto.Aplicacao.dll
+C:\Users\maganha\source\repos\ProjetoBackEndMarcio\Projeto.Aplicacao\obj\Debug\Projeto.Aplicacao.pdb
